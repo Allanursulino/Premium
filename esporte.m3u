@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Premiere HD" tvg-name="Premiere FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere FHD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20000.ts
-#EXTINF:-1 tvg-id="Premiere HD" tvg-name="Premiere HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20001.ts
+#EXTINF:-1 tvg-id="Premiere HD" tvg-name="Premiere FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20000.ts
+#EXTINF:-1 tvg-id="Premiere HD" tvg-name="Premiere HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20001.ts
